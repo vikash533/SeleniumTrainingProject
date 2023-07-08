@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/SeleniumTrainingProject/project_001/src/test/java/mypack/Dropdown.java"><classes><class name="mypack.Dropdown"><methods><include name="testScript1"/><include name="testScript2"/><include name="testScript3"/><include name="testScript4"/></methods></class></classes></test></suite>
